@@ -1,4 +1,4 @@
-# Azure End-to-End Data Engineering Project
+# Azure Retail Data Warehouse & Analytics Platform
 
 This project demonstrates a complete Azure Data Engineering pipeline built using modern cloud technologies.
 
